@@ -30,3 +30,15 @@ There are various bugs throughout the app, of all shapes and sizes. For this exe
 2. `pip install requirements.txt`
 
 3. Run `python factorial.py`, then point your browser to `localhost:6464`.
+
+---
+
+### Secret Code
+
+If you made it to this page from the secret link, pat yourself on the back and email me the passcode:
+`CellarDoor`
+
+---
+
+### Credit 
+This is a fork off the [qa-interview-web-application repo](https://github.com/qxf2/qa-interview-web-application) by the fine folks at [Qxf2 Sevices](https://www.qxf2.com/?utm_source=qa-interview&utm_medium=click&utm_campaign=From%20QA%20Interview). I've tweaked the source to update to Bootstrap4, add a few more bugs, and remove references that might lead the QA candidate to the solutions.
