@@ -144,3 +144,7 @@ grey-text {
 .toppy-30 {
     padding-top: 30px;
 }
+
+.scrt {
+    display: none;
+}
