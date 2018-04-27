@@ -1,9 +1,9 @@
 ## Overview
-This is a single webpage application which accepts a single input and calculates the [factorial](https://en.wikipedia.org/wiki/Factorial) of that input. The app is seeded with various bugs 
+This is a single webpage application which accepts a single input and calculates the [factorial](https://en.wikipedia.org/wiki/Factorial) of that input. The app is seeded with various bugs and was designed for use in interviewing QA and software test candidates. 
 
-This was designed for use in interviewing QA and software test candidates. 
+There are various bugs throughout the app, of all shapes and sizes. 'Bug' is defined rather loosely here. It could be as small as a typo to as big as an actual functional issue. 
 
-There are various bugs throughout the app, of all shapes and sizes. For this exercise I'm defining 'bug' rather loosely here. It could be as small as a typo to as big as an actual functional issue. 
+A version of this app is available for demo at https://qa-interview-app.herokuapp.com/
 
 ### Bugs include but are not limited to:
 * Created a /secret page. You can find it only by finding the secret link. The easiest way to find it is by looking in the page source code. The secret page takes you to the source code.
