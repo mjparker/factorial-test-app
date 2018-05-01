@@ -5,18 +5,6 @@ There are various bugs throughout the app, of all shapes and sizes. 'Bug' is def
 
 A version of this app is available for demo at https://qa-interview-app.herokuapp.com/
 
-### Bugs include but are not limited to:
-* Created a /secret page. You can find it only by finding the secret link. The easiest way to find it is by looking in the page source code. The secret page takes you to the source code.
-* Copyright is 2018-2018
-* Page title has a typo "Factoriall"
-* The Enter button doesn't run the app correctly and refreshses the page
-* The URLs for T&C and Privacy are wrong
-* Rick Roll in the copyright
-* Factorial has a limit
-* The console log is worded all dumb "Hello! I am in the done part the ajax call"
-* A bad link that leads to a 404
-* Infinite loop when submiting a negative number
-
 ## Setup
 
 ### Preconditions:
@@ -41,4 +29,4 @@ If you made it to this page from the secret link, pat yourself on the back and e
 ---
 
 ### Credit 
-This is a fork off the [qa-interview-web-application repo](https://github.com/qxf2/qa-interview-web-application) by the fine folks at [Qxf2 Sevices](https://www.qxf2.com/?utm_source=qa-interview&utm_medium=click&utm_campaign=From%20QA%20Interview). I've tweaked the source to update to Bootstrap4, add a few more bugs, and remove references that might lead the QA candidate to the solutions.
+This is a heavily modified fork off the [qa-interview-web-application repo](https://github.com/qxf2/qa-interview-web-application) by the fine folks at [Qxf2 Sevices](https://www.qxf2.com/?utm_source=qa-interview&utm_medium=click&utm_campaign=From%20QA%20Interview). I've tweaked the source to update to Bootstrap4, add a few more bugs, and remove references to solutions.
