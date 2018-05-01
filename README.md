@@ -29,4 +29,4 @@ If you made it to this page from the secret link, pat yourself on the back and e
 ---
 
 ### Credit 
-This is a heavily modified fork off the [qa-interview-web-application repo](https://github.com/qxf2/qa-interview-web-application) by the fine folks at [Qxf2 Sevices](https://www.qxf2.com/?utm_source=qa-interview&utm_medium=click&utm_campaign=From%20QA%20Interview). I've tweaked the source to update to Bootstrap4, add a few more bugs, and remove references to solutions.
+Credit for this idea goes to the fine folks at [Qxf2 Sevices](https://www.qxf2.com/?utm_source=qa-interview&utm_medium=click&utm_campaign=From%20QA%20Interview). This is a heavily modified fork off their own [qa-interview-web-application](https://github.com/qxf2/qa-interview-web-application). I wrote entirely new HTML/CSS, updated to Bootstrap4, added a few more bugs, and removed references to solutions.
