@@ -15,7 +15,7 @@ A version of this app is available for demo at https://qa-interview-app.herokuap
 1. Edit `factorial.py`. Change the `app.run` line to: 
 `app.run(host='0.0.0.0', port=6464, debug= True)`
 
-2. `pip install requirements.txt`
+2. `pip install -r requirements.txt`
 
 3. Run `python factorial.py`, then point your browser to `localhost:6464`.
 
