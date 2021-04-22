@@ -21,12 +21,5 @@ A version of this app is available for demo at https://qa-interview-app.herokuap
 
 ---
 
-### Secret Code
-
-If you made it to this page from the secret link, pat yourself on the back and email me the passcode:
-`CellarDoor`
-
----
-
 ### Credit 
-Credit for this idea goes to the fine folks at [Qxf2 Sevices](https://www.qxf2.com/?utm_source=qa-interview&utm_medium=click&utm_campaign=From%20QA%20Interview). This is a heavily modified fork off their own [qa-interview-web-application](https://github.com/qxf2/qa-interview-web-application). I wrote entirely new HTML/CSS, updated to Bootstrap4, added a few more bugs, and removed references to solutions.
+This is a heavily modified fork of [qa-interview-web-application](https://github.com/qxf2/qa-interview-web-application). I wrote entirely new HTML/CSS, updated to Bootstrap4, added a few more bugs, and removed references to solutions.
