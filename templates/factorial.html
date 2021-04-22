@@ -9,7 +9,8 @@
     <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
     <!-- Fonts -->
-    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono|IBM+Plex+Sans" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap" rel="stylesheet">
     <!-- QA interview stylesheet -->
     <link href="/static/css/style.css" rel="stylesheet">
 </head>
@@ -75,7 +76,7 @@
                         }
                     };
                     $.ajax(callDetails).done(function (factorial) {
-                        console.log('Hello! I am in the done part the ajax call');
+                        console.log('Log to check that ajax call is complete');
                         console.log(factorial);
                         $("#resultDiv").css('color', 'black');
                         $("#resultDiv").text('The factorial of ' + number + ' is: ' + factorial.answer);
